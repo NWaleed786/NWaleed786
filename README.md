@@ -69,28 +69,6 @@
 
 ---
 
-## 🌐 Mon Portfolio
-
-<div align="center">
-
-### ✨ Découvrez mon portfolio personnel
-
-Retrouvez mes **projets**, mes **compétences** et mon évolution en **BTS SIO**.
-
-<br>
-
-<a href="https://nwaleed786.github.io/Waleed-Portfolio/">
-  <img src="https://img.shields.io/badge/🌐_VISITER_LE_PORTFOLIO-7C3AED?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/NWaleed786/Waleed-Portfolio">
-  <img src="https://img.shields.io/badge/💻_CODE_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### 👀 Visiteurs du profil
