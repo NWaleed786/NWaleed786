@@ -80,12 +80,6 @@ Retrouvez mes **projets**, mes **compétences** et mon évolution en **BTS SIO**
 <br>
 
 <a href="https://nwaleed786.github.io/Waleed-Portfolio/">
-  <img src="./assets/portfolio-preview.png" width="850" alt="Aperçu du Portfolio de Nasrulla Waleed" />
-</a>
-
-<br><br>
-
-<a href="https://nwaleed786.github.io/Waleed-Portfolio/">
   <img src="https://img.shields.io/badge/🌐_VISITER_LE_PORTFOLIO-7C3AED?style=for-the-badge" />
 </a>
 
