@@ -1,8 +1,8 @@
-<!-- ═══════════════════════ TOP ANIMATION ═══════════════════════ -->
+<!-- ═══════════════════════ ANIMATION TOP ═══════════════════════ -->
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,14,18,20&animation=twinkling" alt="Animation"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:7C3AED,50:2563EB,100:7C3AED&section=header" width="100%" alt="Ligne décorative"/>
+</p>
 
 <div align="center">
 
@@ -10,12 +10,12 @@
 
 ### 🎓 Étudiant en BTS SIO • 💻 Développement • 🌐 Réseaux & Systèmes
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2200&pause=500&color=7C3AED&center=true&vCenter=true&width=650&height=45&lines=%C3%89tudiant+en+BTS+SIO+%F0%9F%8E%93;D%C3%A9veloppement+Web+%F0%9F%92%BB;R%C3%A9seaux+%26+Syst%C3%A8mes+%F0%9F%8C%90;Toujours+pr%C3%AAt+%C3%A0+apprendre+%F0%9F%9A%80" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2200&pause=500&color=7C3AED&center=true&vCenter=true&width=650&height=45&lines=%C3%89tudiant+en+BTS+SIO+%F0%9F%8E%93;D%C3%A9veloppement+Web+%F0%9F%92%BB;R%C3%A9seaux+%26+Syst%C3%A8mes+%F0%9F%8C%90;Toujours+pr%C3%AAt+%C3%A0+apprendre+%F0%9F%9A%80" alt="Animation de présentation"/>
 
 <br>
 
 <a href="https://nwaleed786.github.io/Waleed-Portfolio/">
-  <img src="https://img.shields.io/badge/🌐_VOIR_MON_PORTFOLIO-7C3AED?style=for-the-badge" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/🌐_VOIR_MON_PORTFOLIO-7C3AED?style=for-the-badge" alt="Voir mon portfolio"/>
 </a>
 
 </div>
@@ -28,7 +28,7 @@
 
 🎓 Étudiant en **BTS SIO – Services Informatiques aux Organisations**  
 💻 Passionné par le **développement**, les **réseaux** et les **systèmes**  
-🔧 Connaissances en **montage PC**, **diagnostic de pannes** et **maintenance informatique**  
+🔧 Connaissances en **montage de PC**, **diagnostic de pannes** et **maintenance informatique**  
 🚀 Je développe différents **projets informatiques** afin d'améliorer continuellement mes **compétences techniques**.
 
 ---
@@ -76,7 +76,7 @@
 
 ### 👀 Vues du profil
 
-<img src="https://komarev.com/ghpvc/?username=NWaleed786&label=VISITEURS&color=7C3AED&style=for-the-badge" alt="Visiteurs"/>
+<img src="https://komarev.com/ghpvc/?username=NWaleed786&label=VISITEURS&color=7C3AED&style=for-the-badge" alt="Nombre de visiteurs"/>
 
 <br><br>
 
@@ -88,8 +88,8 @@
 
 <br>
 
-<!-- ═══════════════════════ BOTTOM ANIMATION ═══════════════════════ -->
+<!-- ═══════════════════════ ANIMATION BOTTOM ═══════════════════════ -->
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=20,18,14,12&animation=twinkling" alt="Animation"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:7C3AED,50:2563EB,100:7C3AED&section=footer" width="100%" alt="Ligne décorative"/>
+</p>
