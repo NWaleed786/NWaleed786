@@ -11,7 +11,7 @@
 
     <linearGradient id="shine" x1="0" x2="1">
       <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.45"/>
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
   </defs>
@@ -26,20 +26,20 @@
     fill="url(#base)"
   />
 
-  <!-- Reflet blanc : gauche → droite -->
+  <!-- Reflet doux : gauche → droite -->
   <rect
-    x="-180"
+    x="-140"
     y="1"
-    width="180"
+    width="140"
     height="2"
     rx="1"
     fill="url(#shine)"
   >
     <animate
       attributeName="x"
-      from="-180"
+      from="-140"
       to="1000"
-      dur="2s"
+      dur="5s"
       repeatCount="indefinite"
     />
   </rect>
