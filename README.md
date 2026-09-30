@@ -1,4 +1,8 @@
-<!-- ═══════════════════════ TOP ═══════════════════════ -->
+<!-- ═══════════════════════ TOP LINE ═══════════════════════ -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NWaleed786/NWaleed786/main/assets/top-line.svg" width="100%" alt="Ligne animée supérieure"/>
+</p>
 
 <div align="center">
 
@@ -10,7 +14,9 @@
 
 <br>
 
-<a href="https://nwaleed786.github.io/Waleed-Portfolio/"><img src="https://img.shields.io/badge/🌐_VOIR_MON_PORTFOLIO-7C3AED?style=for-the-badge" alt="Voir mon portfolio"/></a>
+<a href="https://nwaleed786.github.io/Waleed-Portfolio/">
+  <img src="https://img.shields.io/badge/🌐_VOIR_MON_PORTFOLIO-7C3AED?style=for-the-badge" alt="Voir mon portfolio"/>
+</a>
 
 </div>
 
@@ -39,10 +45,12 @@
 
 ### ⚙️ Environnement & Outils
 
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" title="Visual Studio Code" alt="Visual Studio Code"/>&nbsp;
-<img src="https://cdn.simpleicons.org/xampp/FB7A24" width="48" height="48" title="XAMPP" alt="XAMPP"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" title="Git" alt="Git"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" title="GitHub" alt="GitHub"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" title="Visual Studio Code" alt="Visual Studio Code"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/xampp/FB7A24" width="48" height="48" title="XAMPP" alt="XAMPP"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" title="Git" alt="Git"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" title="GitHub" alt="GitHub"/>
+</p>
 
 ### 🖥️ Systèmes
 
@@ -77,3 +85,11 @@
 **Nasrulla Waleed • BTS SIO**
 
 </div>
+
+<br>
+
+<!-- ═══════════════════════ BOTTOM LINE ═══════════════════════ -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NWaleed786/NWaleed786/main/assets/bottom-line.svg" width="100%" alt="Ligne animée inférieure"/>
+</p>
