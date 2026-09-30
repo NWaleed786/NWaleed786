@@ -1,8 +1,8 @@
-<!-- ═══════════════════════ ANIMATION TOP ═══════════════════════ -->
+<!-- ═══════════════════════ TOP LINE ═══════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:7C3AED,50:2563EB,100:7C3AED&section=header" width="100%" alt="Ligne décorative"/>
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7C3AED" width="100%" alt="Ligne"/>
+</div>
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 <br>
 
 <a href="https://nwaleed786.github.io/Waleed-Portfolio/">
-  <img src="https://img.shields.io/badge/🌐_VOIR_MON_PORTFOLIO-7C3AED?style=for-the-badge" alt="Voir mon portfolio"/>
+<img src="https://img.shields.io/badge/🌐_VOIR_MON_PORTFOLIO-7C3AED?style=for-the-badge" alt="Voir mon portfolio"/>
 </a>
 
 </div>
@@ -88,8 +88,8 @@
 
 <br>
 
-<!-- ═══════════════════════ ANIMATION BOTTOM ═══════════════════════ -->
+<!-- ═══════════════════════ BOTTOM LINE ═══════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:7C3AED,50:2563EB,100:7C3AED&section=footer" width="100%" alt="Ligne décorative"/>
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7C3AED" width="100%" alt="Ligne"/>
+</div>
