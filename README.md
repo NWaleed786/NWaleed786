@@ -29,7 +29,7 @@
 🎓 Étudiant en **BTS SIO – Services Informatiques aux Organisations**  
 💻 Passionné par le **développement**, les **réseaux** et les **systèmes**  
 🔧 Connaissances en **montage PC**, **diagnostic de pannes** et **maintenance informatique**  
-🚀 Je développe différents projets afin d'améliorer continuellement mes compétences.
+🚀 Je développe différents **projets informatiques** afin d'améliorer continuellement mes **compétences techniques**.
 
 ---
 
@@ -79,6 +79,8 @@
 <img src="https://komarev.com/ghpvc/?username=NWaleed786&label=VISITEURS&color=7C3AED&style=for-the-badge" alt="Visiteurs"/>
 
 <br><br>
+
+### 💜 Merci de votre visite !
 
 **Nasrulla Waleed • BTS SIO**
 
