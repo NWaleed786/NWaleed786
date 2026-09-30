@@ -17,10 +17,6 @@
 <a href="https://nwaleed786.github.io/Waleed-Portfolio/">
   <img src="https://img.shields.io/badge/🌐_VOIR_MON_PORTFOLIO-7C3AED?style=for-the-badge" alt="Voir mon portfolio"/>
 </a>
-&nbsp;
-<a href="https://github.com/NWaleed786">
-  <img src="https://img.shields.io/badge/FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="Suivre sur GitHub"/>
-</a>
 
 </div>
 
