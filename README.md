@@ -19,7 +19,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/NWaleed786">
-  <img src="https://img.shields.io/github/followers/NWaleed786?label=FOLLOW&style=for-the-badge&logo=github" alt="Suivre sur GitHub"/>
+  <img src="https://img.shields.io/badge/FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="Suivre sur GitHub"/>
 </a>
 
 </div>
