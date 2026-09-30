@@ -1,8 +1,4 @@
-<!-- ═══════════════════════ TOP ANIMATION ═══════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,14,18,20&animation=twinkling" width="100%" alt="Ligne animée"/>
-</div>
+<!-- ═══════════════════════ TOP ═══════════════════════ -->
 
 <div align="center">
 
@@ -17,8 +13,6 @@
 <a href="https://nwaleed786.github.io/Waleed-Portfolio/"><img src="https://img.shields.io/badge/🌐_VOIR_MON_PORTFOLIO-7C3AED?style=for-the-badge" alt="Voir mon portfolio"/></a>
 
 </div>
-
-<br>
 
 ---
 
@@ -48,7 +42,7 @@
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" title="Visual Studio Code" alt="Visual Studio Code"/>&nbsp;
 <img src="https://cdn.simpleicons.org/xampp/FB7A24" width="48" height="48" title="XAMPP" alt="XAMPP"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" title="Git" alt="Git"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=github&theme=light" width="48" height="48" title="GitHub" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" title="GitHub" alt="GitHub"/>
 
 ### 🖥️ Systèmes
 
@@ -82,12 +76,4 @@
 
 **Nasrulla Waleed • BTS SIO**
 
-</div>
-
-<br>
-
-<!-- ═══════════════════════ BOTTOM ANIMATION ═══════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=20,18,14,12&animation=twinkling" width="100%" alt="Ligne animée"/>
 </div>
