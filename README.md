@@ -17,6 +17,10 @@
 <a href="https://nwaleed786.github.io/Waleed-Portfolio/">
   <img src="https://img.shields.io/badge/🌐_VOIR_MON_PORTFOLIO-7C3AED?style=for-the-badge" alt="Voir mon portfolio"/>
 </a>
+&nbsp;
+<a href="https://github.com/NWaleed786">
+  <img src="https://img.shields.io/github/followers/NWaleed786?label=FOLLOW&style=for-the-badge&logo=github" alt="Suivre sur GitHub"/>
+</a>
 
 </div>
 
@@ -37,11 +41,13 @@
 
 ### 💻 Développement
 
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" title="Python" alt="Python"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" title="Kotlin" alt="Kotlin"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" title="HTML" alt="HTML"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" title="CSS" alt="CSS"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" title="PHP" alt="PHP"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" title="Python" alt="Python"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" title="Kotlin" alt="Kotlin"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" title="HTML" alt="HTML"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" title="CSS" alt="CSS"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" title="PHP" alt="PHP"/>
+</p>
 
 ### ⚙️ Environnement & Outils
 
@@ -54,19 +60,26 @@
 
 ### 🖥️ Systèmes
 
-<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" title="Windows" alt="Windows"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" title="Linux" alt="Linux"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" title="Windows" alt="Windows"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" title="Linux" alt="Linux"/>
+</p>
 
 ### 🗄️ Base de données
 
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" title="MySQL" alt="MySQL"/>&nbsp;
-<img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" width="48" height="48" title="phpMyAdmin" alt="phpMyAdmin"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" title="MySQL" alt="MySQL"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/mariadb/003545" width="48" height="48" title="MariaDB" alt="MariaDB"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" width="48" height="48" title="phpMyAdmin" alt="phpMyAdmin"/>
+</p>
 
 ### 🌐 Réseaux
 
-<img src="https://img.shields.io/badge/TCP%2FIP-181717?style=for-the-badge" title="TCP/IP" alt="TCP/IP"/>&nbsp;
-<img src="https://img.shields.io/badge/DHCP-181717?style=for-the-badge" title="DHCP" alt="DHCP"/>&nbsp;
-<img src="https://img.shields.io/badge/DNS-181717?style=for-the-badge" title="DNS" alt="DNS"/>
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FIP-181717?style=for-the-badge" title="TCP/IP" alt="TCP/IP"/>&nbsp;
+  <img src="https://img.shields.io/badge/DHCP-181717?style=for-the-badge" title="DHCP" alt="DHCP"/>&nbsp;
+  <img src="https://img.shields.io/badge/DNS-181717?style=for-the-badge" title="DNS" alt="DNS"/>
+</p>
 
 </div>
 
