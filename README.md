@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=%C3%89tudiant+en+BTS+SIO+%F0%9F%8E%93;D%C3%A9veloppement+Web+%F0%9F%92%BB;R%C3%A9seaux+%26+Syst%C3%A8mes+%F0%9F%8C%90;Toujours+pr%C3%AAt+%C3%A0+apprendre+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br><br>
+<br>
 
 <a href="https://nwaleed786.github.io/Waleed-Portfolio/">
   <img src="https://img.shields.io/badge/🌐_VOIR_MON_PORTFOLIO-7C3AED?style=for-the-badge" />
@@ -18,9 +18,15 @@
 
 </div>
 
+<br>
+
 ---
 
 ## 👨‍💻 À propos de moi
+
+<table>
+<tr>
+<td>
 
 🎓 Je suis actuellement étudiant en **BTS SIO – Services Informatiques aux Organisations**.
 
@@ -30,42 +36,125 @@
 
 🚀 Je développe régulièrement de nouveaux projets afin d'améliorer mes compétences et de découvrir de nouvelles technologies.
 
+</td>
+</tr>
+</table>
+
+<br>
+
 ---
 
 ## 🛠️ Compétences techniques
 
-<div align="center">
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
 
 ### 💻 Développement
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=python,kotlin,html,css,php" />
 
 <br><br>
 
-### 🗄️ Base de données & Outils
+**Python • Kotlin • HTML • CSS • PHP**
+
+<br>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🗄️ Outils & Base de données
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=mysql,vscode,git,github" />
 
 <br><br>
 
+**MySQL • VS Code • Git • GitHub**
+
+<br>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
 ### 🖥️ Systèmes
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=windows,linux" />
 
 <br><br>
 
+**Windows • Linux**
+
+<br>
+
+</td>
+
+<td align="center" width="50%">
+
 ### 🌐 Réseaux
 
+<br>
+
 <img src="https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
+
 <img src="https://img.shields.io/badge/DHCP-7C3AED?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&logo=cloudflare&logoColor=white" />
 
 <br><br>
 
+**TCP/IP • DHCP • DNS**
+
+<br>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### 🔧 Environnement & Maintenance
+
+<br>
+
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
 
-</div>
+<br><br>
+
+**Montage PC • Diagnostic de pannes • Maintenance informatique**
+
+<br>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
