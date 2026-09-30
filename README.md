@@ -1,8 +1,4 @@
-<!-- ═══════════════════════ TOP LINE ═══════════════════════ -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NWaleed786/NWaleed786/main/assets/top-line.svg" width="100%" alt="Ligne animée supérieure"/>
-</p>
+<img src="https://raw.githubusercontent.com/NWaleed786/NWaleed786/main/assets/top-line.svg" width="100%" alt=""/>
 
 <div align="center">
 
@@ -97,8 +93,4 @@
 
 <br>
 
-<!-- ═══════════════════════ BOTTOM LINE ═══════════════════════ -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NWaleed786/NWaleed786/main/assets/bottom-line.svg" width="100%" alt="Ligne animée inférieure"/>
-</p>
+<img src="https://raw.githubusercontent.com/NWaleed786/NWaleed786/main/assets/bottom-line.svg" width="100%" alt=""/>
