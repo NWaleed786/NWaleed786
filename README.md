@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/NWaleed786/NWaleed786/main/assets/top-line.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/NWaleed786/NWaleed786/main/assets/top-line.svg" width="100%" height="3" alt=""/>
 
 <div align="center">
 
@@ -93,4 +93,4 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/NWaleed786/NWaleed786/main/assets/bottom-line.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/NWaleed786/NWaleed786/main/assets/bottom-line.svg" width="100%" height="3" alt=""/>
